@@ -12,7 +12,11 @@ const Projects = () => {
         <p className='mb-4'>
           Welcome to Recipe Finder, your ultimate culinary companion! Whether you're a novice cook or a seasoned chef, our platform makes it easy to discover new recipes, plan your meals, and explore diverse cuisines. Simply enter the ingredients you have on hand or the dish you're craving, and browse through a wide array of recipes tailored to your preferences. With step-by-step instructions, nutritional information, and user reviews, Recipe Finder ensures you can create delicious meals with confidence and ease. Let Recipe Finder inspire your next culinary adventure!
         </p>
-        <a className='border-2 text-xl font-bold bg-primary text-white py-2 px-4 inline-block'>View Website</a>
+     
+<a href="https://cook-ease-beta.vercel.app/" className='border-2 text-xl font-bold bg-primary text-white py-2 px-4 inline-block'>
+  View Website
+</a>
+
       </div>
     </div>
   );
